@@ -2,7 +2,7 @@
 CTEC 426 Final Project — Data-Driven Pricing Model for Fairness in the Used Car Market
 
 # Data-Driven Pricing: Promoting Fairness in the Used Car Market  
-### CTEC 426 — Network & Data Analysis Project  
+### CTEC 426 — Data & Predictive Analysis Project  
 **By: Torrodjae Somerville**
 
 ---
@@ -148,7 +148,7 @@ High-use vehicles have a **wider upper range** of pricing due to demand, leading
 
 ---
 
-## 💡 Actionable Insights
+## Actionable Insights
 
 ## For Buyers  
 - Look at **miles per year**, not just total miles  
